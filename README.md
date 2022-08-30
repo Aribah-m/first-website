@@ -1,2 +1,2 @@
-# first-website
+# First-Repo
 Learning HTML
